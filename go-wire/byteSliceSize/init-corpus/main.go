@@ -26,6 +26,7 @@ func initCorpus(root string) error {
 		"miscellaneous",
 		"A",
 		"tendermint tnimrednet",
+		"  ",
 	}
 
 	for i, corpus := range corpora {
